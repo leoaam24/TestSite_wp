@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Real Estate News &#8211; Test Site for Practice</title>
+	<atom:link href="http://leoaam24.github.io/TestSite_wp/category/real-estate-news/feed/" rel="self" type="application/rss+xml" />
+	<link>http://leoaam24.github.io/TestSite_wp</link>
+	<description></description>
+	<lastBuildDate>Wed, 04 Jan 2023 16:37:02 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>Progress always involves risk.</title>
+		<link>http://leoaam24.github.io/TestSite_wp/2020/10/17/demo-post/</link>
+		
+		<dc:creator><![CDATA[testadmin]]></dc:creator>
+		<pubDate>Sat, 17 Oct 2020 12:05:06 +0000</pubDate>
+				<category><![CDATA[Real Estate News]]></category>
+		<category><![CDATA[commercial]]></category>
+		<category><![CDATA[esidential]]></category>
+		<category><![CDATA[industrial]]></category>
+		<category><![CDATA[raw land]]></category>
+		<guid isPermaLink="false">https://startertemplatecloud.com/e01/?p=618</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar enim eu odio porttitor, ut varius mi consequat. Aenean tellus ipsum, porttitor eget mi eget, faucibus laoreet neque. Donec varius...]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="618" class="elementor elementor-618">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-a5ca433 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a5ca433" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9e512fa" data-id="9e512fa" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-97149ce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="97149ce" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3ee0645" data-id="3ee0645" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b67b650 elementor-widget elementor-widget-text-editor" data-id="b67b650" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar enim eu odio porttitor, ut varius mi consequat. Aenean tellus ipsum, porttitor eget mi eget, faucibus laoreet neque. </p>
+<p>Donec varius odio mi, et dapibus magna commodo ut. Cras blandit sapien eu urna fermentum, ut interdum lectus vestibulum. Quisque ullamcorper est et lorem commodo pretium. Curabitur tristique ex orci, vitae dictum magna feugiat ac. Duis ac elementum augue, laoreet tristique justo. Vivamus egestas rutrum metus. Fusce ultricies, sapien a vehicula convallis, nulla turpis convallis tellus, vel imperdiet nisl leo id neque. Aenean vel viverra nulla.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4ca4126" data-id="4ca4126" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3b66188 elementor-widget elementor-widget-text-editor" data-id="3b66188" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar enim eu odio porttitor, ut varius mi consequat. Aenean tellus ipsum, porttitor eget mi eget, faucibus laoreet neque. Donec varius odio mi, et dapibus magna commodo ut. Cras blandit sapien eu urna fermentum, ut interdum lectus vestibulum. Quisque ullamcorper est et lorem commodo pretium. Curabitur tristique ex orci, vitae dictum magna feugiat ac. Duis ac elementum augue, laoreet tristique justo. </p>
+<p>Vivamus egestas rutrum metus. Fusce ultricies, sapien a vehicula convallis, nulla turpis convallis tellus, vel imperdiet nisl leo id neque. Aenean vel viverra nulla.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-595c8cc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="595c8cc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c85db0a" data-id="c85db0a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7f3efef elementor-arrows-position-inside elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="7f3efef" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper swiper-image-stretch">
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="http://leoaam24.github.io/TestSite_wp/wp-content/uploads/2020/10/jacques-bopp-wtzOhxEX4WU-unsplash.jpg" alt="jacques-bopp-wtzOhxEX4WU-unsplash" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="http://leoaam24.github.io/TestSite_wp/wp-content/uploads/2020/10/ralph-ravi-kayden-2d4lAQAlbDA-unsplash.jpg" alt="ralph-ravi-kayden-2d4lAQAlbDA-unsplash" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="http://leoaam24.github.io/TestSite_wp/wp-content/uploads/2020/10/cayetano-gros-ONea6ruvc50-unsplash.jpg" alt="cayetano-gros-ONea6ruvc50-unsplash" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="http://leoaam24.github.io/TestSite_wp/wp-content/uploads/2020/10/irina-murza-PJMbzWAz26M-unsplash.jpg" alt="irina-murza-PJMbzWAz26M-unsplash" /></figure></div>			</div>
+												<div class="swiper-pagination"></div>
+													<div class="elementor-swiper-button elementor-swiper-button-prev">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
+					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>						<span class="elementor-screen-only">Next</span>
+					</div>
+									</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-dc05cb3" data-id="dc05cb3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-24bd0eb elementor-widget elementor-widget-image" data-id="24bd0eb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>									<figure class="wp-caption">
+										<img decoding="async" width="800" height="961" src="http://leoaam24.github.io/TestSite_wp/wp-content/uploads/2020/10/rana-sawalha-IhuHLIxS_Tk-unsplash.jpg" class="attachment-large size-large wp-image-511" alt="" loading="lazy" srcset="http://leoaam24.github.io/TestSite_wp/wp-content/uploads/2020/10/rana-sawalha-IhuHLIxS_Tk-unsplash.jpg 800w, http://leoaam24.github.io/TestSite_wp/wp-content/uploads/2020/10/rana-sawalha-IhuHLIxS_Tk-unsplash-250x300.jpg 250w, http://leoaam24.github.io/TestSite_wp/wp-content/uploads/2020/10/rana-sawalha-IhuHLIxS_Tk-unsplash-768x923.jpg 768w" sizes="(max-width: 800px) 100vw, 800px" />											<figcaption class="widget-image-caption wp-caption-text">Alejandro Ringler</figcaption>
+										</figure>
+									</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-5f66414 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5f66414" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.9.2 - 21-12-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4ffbdc2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4ffbdc2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-b35fbac" data-id="b35fbac" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5195f93 elementor-widget elementor-widget-text-editor" data-id="5195f93" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras pulvinar enim eu odio porttitor, ut varius mi consequat. Aenean tellus ipsum, porttitor eget mi eget, faucibus laoreet neque. </p>
+<p>Donec varius odio mi, et dapibus magna commodo ut. Cras blandit sapien eu urna fermentum, ut interdum lectus vestibulum. Quisque ullamcorper est et lorem commodo pretium. Curabitur tristique ex orci, vitae dictum magna feugiat ac. Duis ac elementum augue, laoreet tristique justo. Vivamus egestas rutrum metus. Fusce ultricies, sapien a vehicula convallis, nulla turpis convallis tellus, vel imperdiet nisl leo id neque. Aenean vel viverra nulla.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-63e8ed1" data-id="63e8ed1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6c87bd8 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6c87bd8" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="http://leoaam24.github.io/TestSite_wp/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css">		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Cras pulvinar enim eu odio porttitor, ut varius mi consequat.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Aenean tellus ipsum, porttitor eget mi eget, faucibus laoreet neque.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Donec varius odio mi, et dapibus magna commodo ut.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Cras blandit sapien eu urna fermentum, ut interdum lectus vestibulum.</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Quisque ullamcorper est et lorem commodo pretium.</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
